@@ -1,0 +1,22 @@
+.profile {
+  max-width: 75%;
+  margin: auto;
+}
+.profile-title {
+  text-align: center;
+}
+.profile-info {
+  width: 33.33%;
+  height: 100%;
+  float: left;
+}
+.sprint-points {
+  width: 33.33%;
+
+  float: left;
+}
+.total-points {
+  width: 33.34%;
+
+  float: left;
+}
