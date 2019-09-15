@@ -1,0 +1,11 @@
+.sprint {
+  max-width: 75%;
+  margin: auto;
+}
+.summary {
+  max-width: 30%;
+  margin: auto;
+}
+.leaderboard-title {
+  text-align: center;
+}
